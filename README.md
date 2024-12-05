@@ -1,10 +1,7 @@
 # Biodiversity Intactness Index change in Phoenix, AZ
 
-# Visualizing the effects of the 2017 Thomas Fire in Santa Barbara County
-
 ## About
-xxx
-
+Due to a rapid increase in developed land, Phoenix, Arizona has seen changes in biodiversity. This repository contains a notebook `biodiversity-intactness-indez.ipynb` where the impacts on biodiversity due to urban sprawl are examined by analyzing the changes in Biodiversity Intactness Index(BII).
 
 
 ## Repository Structure
@@ -29,9 +26,12 @@ xxx
 
 
 ## Data
-xxx
+The first dataset is the Biodiversity Intactness Index(BII) Time Series. This data comes from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). In the analysis we use the 2017 and 2020 rasters.
+
+The second dataset is the [Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions) County Subdivisions shapefile for Arizona. The Phoenix subdivision was downloaded from this shapefile.
 
 ## References
 
-1. Daily AQI by County for 2017
-xxxx
+1. Microsoft Planetary Computer. (n.d.). IO biodiversity dataset. Retrieved December 3, 2024, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
+
+2. U.S. Census Bureau. (2024). Arizona county subdivisions: tl_2024_04_cousub.shp [Shapefile dataset]. Retrieved from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions 
