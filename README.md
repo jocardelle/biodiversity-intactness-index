@@ -26,11 +26,11 @@ Due to a rapid increase in developed land, Phoenix, Arizona has seen changes in 
 
 
 ## Data
-The first dataset is the Biodiversity Intactness Index(BII) Time Series. This data comes from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). In the analysis we use the 2017 and 2020 rasters.
+The first dataset is the Biodiversity Intactness Index(BII) Time Series. This data comes from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). In the analysis we use the 2017 and 2020 rasters. The catalog can be retrieved from the url https://planetarycomputer.microsoft.com/api/stac/v1
 
-The second dataset is the [Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions) County Subdivisions shapefile for Arizona. The Phoenix subdivision was downloaded from this shapefile.
+The second dataset is the [Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions) County Subdivisions shapefile for Arizona. The Phoenix subdivision was downloaded from this shapefile. The data can be downloaded at https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions and was read in through the data folder.
 
-An ESRI National Geographic style world basemap was used to show the Phoenix subdivision in its broader geographic context.
+An ESRI National Geographic style world basemap was used to show the Phoenix subdivision in its broader geographic context. The basemap was accessed using the contextily package.
 
 ## References
 
