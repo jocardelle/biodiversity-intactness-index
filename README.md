@@ -30,8 +30,12 @@ The first dataset is the Biodiversity Intactness Index(BII) Time Series. This da
 
 The second dataset is the [Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions) County Subdivisions shapefile for Arizona. The Phoenix subdivision was downloaded from this shapefile.
 
+An ESRI National Geographic style world basemap was used to show the Phoenix subdivision in its broader geographic context.
+
 ## References
 
 1. Microsoft Planetary Computer. (n.d.). IO biodiversity dataset. Retrieved December 3, 2024, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
 
 2. U.S. Census Bureau. (2024). Arizona county subdivisions: tl_2024_04_cousub.shp [Shapefile dataset]. Retrieved from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=County+Subdivisions 
+
+3. 3. Esri. (n.d.). National Geographic Style [Basemap]. ArcGIS. Retrieved December 6, 2024, from https://hub.arcgis.com/maps/3d1a30626bbc46c582f148b9252676ce/explore【6】.
