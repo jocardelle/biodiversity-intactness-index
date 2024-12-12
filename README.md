@@ -32,6 +32,9 @@ The second dataset is the [Census Bureau](https://www.census.gov/cgi-bin/geo/sha
 
 An ESRI National Geographic style world basemap was used to show the Phoenix subdivision in its broader geographic context. The basemap was accessed using the contextily package.
 
+## Acknowledgements
+All materials were created by [Carmen Galaz-Garcia](https://github.com/carmengg) for [EDS-220: Working with Environmental Data](https://meds-eds-220.github.io/MEDS-eds-220-course/).
+
 ## References
 
 1. Microsoft Planetary Computer. (n.d.). IO biodiversity dataset. Retrieved December 3, 2024, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
